@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    display: flex;
+}
+
+.nav-title {
+    font-weight: 800;
+    font-size: 45px;
+}
+
+.color {
+    color: tomato;
+}
