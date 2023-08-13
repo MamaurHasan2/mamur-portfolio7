@@ -96,7 +96,7 @@ main {
 
 .section-title {
     font-size: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .section-description {
@@ -132,7 +132,7 @@ main {
 
 .i-do-p {
     text-align: center;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
     color: rgb(100, 100, 99);
     font-size: 18px;
 }
@@ -144,7 +144,7 @@ main {
 
 .skill {
     background: #ffffff;
-    box-shadow: 0px 6px 50px rgba(10, 9, 9, 0.06);
+    box-shadow: 0px 6px 50px orange;
     border-radius: 7px;
     padding: 30px;
 }
