@@ -32,12 +32,12 @@ nav li {
 }
 
 .btn {
-    color: aliceblue;
+    color: #ffffff;
     font-weight: 700;
     font-size: 20px;
     border: 0;
     padding: 18px 36px;
-    height: 60px;
+    height: 64px;
     border-radius: 5px;
     background: rgb(231, 39, 5);
 }
