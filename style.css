@@ -39,7 +39,21 @@ nav li {
     padding: 18px 36px;
     height: 60px;
     border-radius: 5px;
-    background: tomato;
+    background: rgb(231, 39, 5);
+}
+
+.btn2 {
+    color: rgb(231, 39, 5);
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 36px;
+    height: 60px;
+    border-radius: 5px;
+    background: white;
+    border: 2px solid tomato;
+    margin-left: 20px;
+
 }
 
 .header {
@@ -147,6 +161,7 @@ main {
     box-shadow: 0px 6px 50px orange;
     border-radius: 7px;
     padding: 30px;
+    margin-bottom: 130px;
 }
 
 .skill-title {
@@ -160,3 +175,76 @@ main {
     color: rgb(100, 100, 99);
     font-size: 15px;
 }
+
+/* my resume */
+.section-title {
+    text-align: center;
+}
+
+.resume-content {
+    display: flex;
+    gap: 30px;
+}
+
+.resume-item {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.resume .title {
+    font-weight: 700;
+    font-size: 25px;
+    color: #757575;
+    margin-bottom: 10px;
+}
+
+.resume .sub-title {
+    color: #474747;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.resume .descripton {
+    color: #757575;
+}
+
+.resume-button {
+    text-align: center;
+    margin-top: 30px;
+    /* margin-bottom: ; */
+}
+
+/* contact Design */
+.contact {
+    display: flex;
+    gap: 100px;
+    margin-top: 130px;
+    background: #fff8f3;
+    padding: 130px 200px;
+    border-radius: 10px;
+    border-radius: 10px;
+
+}
+
+.contact .section-title {
+    text-align: left;
+}
+
+.contact input[type="text"],
+input[type="email"],
+textarea {
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+    border-radius: 5px;
+}
+
+input {
+    height: 64px;
+}
+
+/* .contact a {
+    text-decoration: none;
+} */
